@@ -1,0 +1,74 @@
+* {
+    border: none;
+    border-radius: 2;
+    font-family: FontAwesome;
+    font-size: 14px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: transparent;
+    color: white;
+}
+
+tooltip {
+	background: #0f0f0f;
+	border-radius: 15px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #262626;
+	}
+
+
+#custom-date, #clock, #pulseaudio, #memory, #cpu, #disk, #temperature, #tray{
+	background-color: #0f0f0f;
+	padding: 5px 10px;
+	margin: 10px 0px;
+}
+
+
+#custom-date {
+	color: #9ec3c4;
+}
+
+#tray {
+	opacity: 0.5;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#clock {
+    color: #B2A7D1;
+    border-radius: 0px 15px 15px 0px;
+    margin-right: 10px;
+}
+
+#memory {
+    color: #A7AEDB;
+    border-radius: 0px 15px 15px 0px;
+}
+
+#cpu, #temperature {
+    border-radius: 0px 0px 0px 0px;
+}
+
+#cpu {
+    color: #A5A8D4;
+}
+
+#temperature {
+    color: #F6B1DC;
+}
+
+#disk, #pulseaudio {
+    border-radius: 15px 0px 0px 15px;
+}
+
+#disk {
+    color: #D2AADF;
+    margin-left: 10px;
+}
+
+#pulseaudio {
+	color: #a5b4cb;
+}
+
