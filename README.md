@@ -4,6 +4,8 @@ After a long time using other's dotfiles i decided to build my own on top of the
 
 That was the first wayfire dotfile i used: https://github.com/TRPB/dotfiles
 
+(this was made without love which means that i made it for myself so there's some configurations that either is broken or you may have to change in wayfire.ini like the monitor resolution and stuff that you probably experienced before)
+
 # Application Themes
 I use the gtk theme "Material-Black-Plum-4.0" from "Material-Themes" and the Kvantum theme "Black-Plum" from "Black-Colors". The gtk theme doesn't combine that well with the rice itself but it's the closest one i found that was faithful to the theme. It also had some conflicts with the wofi so i had to change some things (like the input border) but nothing that relevant.
 
