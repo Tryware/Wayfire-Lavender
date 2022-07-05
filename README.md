@@ -2,8 +2,6 @@
 My first dotfiles ever. Made for wayfire
 After a long time using other's dotfiles i decided to build my own on top of these dotfiles (since i was too lazy to do everything from 0) so you probably will find familiar configs.
 
-That was the first wayfire dotfile i used: https://github.com/TRPB/dotfiles
-
 (this was made without love which means that i made it for myself so there's some configurations that either is broken or you may have to change in wayfire.ini like the monitor resolution and stuff that you probably experienced before)
 
 If i forgot to add anything/sent something buggy just tell me in the issues bar.
