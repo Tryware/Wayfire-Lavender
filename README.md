@@ -1,4 +1,4 @@
-# wayfire-blacklavender
+# Wayfire-Lavender
 My first dotfiles ever. Made for wayfire
 After a long time using other's dotfiles i decided to build my own on top of these dotfiles (since i was too lazy to do everything from 0) so you probably will find familiar configs.
 
