@@ -9,9 +9,14 @@ If i forgot to add anything/sent something buggy just tell me in the issues bar.
 # Application Themes
 I use the gtk theme "Material-Black-Plum-4.0" from "Material-Themes" and the Kvantum theme "Black-Plum" from "Black-Colors". The gtk theme doesn't combine that well with the rice itself but it's the closest one i found that was faithful to the theme. It also had some conflicts with the wofi so i had to change some things (like the input border) but nothing that relevant.
 
+Material Themes: https://www.gnome-look.org/p/1316887
+Black Colors: https://store.kde.org/p/1820725
+
 # Icons and Cursor
 I use Tela-Purple-Dark but before i used Dark-Papirus, you can see both in use at the print and install the one you think it combines better. Oh yeah and Sunity-cursors as cursor.
 
+Tela icon theme: https://www.gnome-look.org/p/1279924/
+Sunity Cursors: https://store.kde.org/p/1703043
 
 # Screenshots
 ![print1](https://user-images.githubusercontent.com/82564850/176285312-5e08add4-2c65-426a-b6f2-94e8729680c2.png)
